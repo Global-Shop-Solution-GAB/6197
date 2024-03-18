@@ -1,0 +1,4 @@
+CREATE TABLE "GCG_6197_PO_RTR" (
+ "PO" CHAR(7),
+ "Lot" CHAR(30),
+ "Lot_Desc" LONGVARCHAR );
